@@ -1,0 +1,84 @@
+[
+  {
+    "id":1,
+    "name":"Stroy Book",
+    "title":"War and Piece",
+    "author":"Ray Bradbury",
+    "price":0,
+    "category": "Free",
+    "image":"https://images.thegreatestbooks.org/jnfxt8aq3jls8hnajnpp9381e8rp"
+  },
+  {
+    "id":2,
+    "name":"Stroy Book",
+    "title":"Anna Karenina ",
+    "author":" Sergio Cobo",
+    "price":0,
+    "category": "Free",
+    "image":"https://images.thegreatestbooks.org/m8kb7ah2lhy960dbp473zna11wb4"
+  },
+  {
+    "id":3,
+    "name":"Stroy Book",
+    "title":"The Great Gatsby",
+    "author":"F.Scott Fitzgerald",
+    "price":0,
+    "category": "Free",
+    "image":"https://images.thegreatestbooks.org/ymseqoyhkyhpho50rs2jdjmi2gnn"
+  },
+  {
+    "id":4,
+    "name":"Stroy Book",
+    "title":"Madame Bovary",
+    "author":"Gustave Flaubert",
+    "price":0,
+    "category": "Free",
+    "image":"https://images.thegreatestbooks.org/e6ucr7aqiwuvqs1of4x4hlvql2x3"
+  },
+  {
+    "id":5,
+    "name":"Drama Book",
+    "title":"Hamlet",
+    "author":"William Shakespeare",
+    "price":0,
+    "category": "Free",
+    "image":"https://images.thegreatestbooks.org/pmkxt73kwwovqrnjty4ie04bui3n"
+  },
+  {
+    "id":6,
+    "name":"Poem Book",
+    "title":"Don Quixote",
+    "author": " Miguel de Cervantes",
+    "price":0,
+    "category": "Free",
+    "image":"https://images.thegreatestbooks.org/oszk1iwyehfjxx2zgz8j9v1g9vg1"
+  },
+  {
+    "id":7,
+    "name":"Poem Book",
+    "title":"Lolita",
+    "author": "Vladimir Nabokov",
+    "price":0,
+    "category": "Free",
+    "image":"https://images.thegreatestbooks.org/t9epsngv7thxsjalsswqzgtnzlpu"
+  },
+  {
+    "id":8,
+    "name":"Poem Book",
+    "title":"Middlemarch ",
+    "author": " by George Eliot",
+    "price":0,
+    "category": "Free",
+    "image":"https://images.thegreatestbooks.org/hebctmqlcdivxxfn14mz9ny6cmah"
+  },
+  {
+    "id":9,
+    "name":"Stroy Book",
+    "title":"Moby-Dick",
+    "author":"Herman Melville",
+    "price":0,
+    "category": "Free",
+    "image":"https://images.thegreatestbooks.org/4zdrnqgrbobtunihoxvad8kxotot"
+  }
+  
+]
